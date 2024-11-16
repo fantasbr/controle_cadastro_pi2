@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Clientes e Processos Jurídicos
 
-Projeto de sistema web para gestão de clientes e processos jurídicos. O sistema permite o cadastro de usuários, autenticação, gerenciamento de clientes e processos, e possui funcionalidades básicas de CRUD (Create, Read, Update, Delete).
+Este é um projeto de sistema web para gestão de clientes e processos jurídicos. O sistema permite o cadastro de usuários, autenticação, gerenciamento de clientes e processos, e possui funcionalidades básicas de CRUD (Create, Read, Update, Delete).
 
 ## Tecnologias Utilizadas
 
@@ -120,6 +120,16 @@ Agora você poderá acessar a aplicação no seu navegador, onde o frontend se c
 5. **Excluir um cliente**
 
     **DELETE** `/api/clientes/:id`
+
+## Contribuindo
+
+Se você deseja contribuir com este projeto, siga as etapas abaixo:
+
+1. Fork o repositório.
+2. Crie uma branch para a sua feature (git checkout -b minha-feature).
+3. Realize as alterações e faça um commit (git commit -am 'Adiciona nova feature').
+4. Envie para o repositório (git push origin minha-feature).
+5. Abra um pull request.
 
 
 # controle_cadastro_pi2
